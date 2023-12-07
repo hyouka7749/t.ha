@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "Windows
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{D0E4579E-3086-44B1-B368-5C8D145FAAA9}"
 	ProjectSection(SolutionItems) = preProject
+		Lecture.cs = Lecture.cs
 		Student.cs = Student.cs
 	EndProjectSection
 EndProject
